@@ -21,3 +21,33 @@ li a {
     color: orange;
     font-size: x-large;
 }
+.form-cotainer {
+    background-color: black;
+    float: right;
+}
+
+body {
+    background-image: url('img 1.jfif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-colum {
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+    float: right;
+    flex-wrap: wrap;
+}
+
+.form-cotainer {
+    background-color: #222;
+    padding: 20px;
+    box-shadow: dimgrey;
+    width: 300px;
+    
+
+}
+
+
